@@ -8,7 +8,7 @@ soundData =
  ["sound/yokoku-chime.mp3", "(♪予告メロディ)"],
  ["sound/21ji.mp3", "21時"],
  ["sound/22hun-hatsu.mp3", "22分発"],
- ["sound/local.mp3", "普通"],
+ ["sound/focal.mp3", "普通"],
  ["sound/kamo-yukiha.mp3", "加茂行きは"],
  ["sound/1bannoriba-kara.mp3", "1番のりばから"],
  ["sound/hasshashimasu.mp3", "発車します"],
