@@ -1,0 +1,16 @@
+{
+	"source": "900000000000",
+	"target": "900000000001",
+	"relation": "regional",
+	"metadata": {
+		"line": "M1",
+		"time": 180
+   }
+	"source": "900000000001",
+	"target": "900000000002",
+	"relation": "regional",
+	"metadata": {
+		"line": "M1",
+		"time": 180
+	}
+}
