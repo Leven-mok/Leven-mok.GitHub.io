@@ -1,0 +1,20 @@
+{
+	"id": "900000000000",
+	"label": "Leven Yoto",
+	"metadata": {
+		"x": 506.12,
+		"y": 325.12
+	}
+	"id": "900000000001",
+	"label": "Neptune Square",
+	"metadata": {
+		"x": 511.12,
+		"y": 325.12
+	}
+	"id": "900000000002",
+	"label": "Higashi-Yoto",
+	"metadata": {
+		"x": 517.12,
+		"y": 325.12
+	}
+}
